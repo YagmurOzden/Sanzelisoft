@@ -1,0 +1,33 @@
+#navbar{
+    background-color: #680843bd;
+    color: white;
+    
+}
+#txt{
+    color: white;
+}
+
+#navbarDropdown{
+    
+    color: pink;
+}
+
+
+#dropdown-menu-special{
+    background-color: #2c031cbd;
+    color: white;
+}
+
+.navFooterBackToTop{
+    color:#680843bd;
+}
+#button{
+    background-color:#680843bd;
+    color:white;
+    width: 100%;
+}
+#button a {
+    color: white;
+    text-decoration: none;
+    background-color: transparent;
+}
