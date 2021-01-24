@@ -1,0 +1,55 @@
+body{
+
+    font-family: 'Montserrat', sans-serif;
+   
+}
+
+.navbar-brand {
+    font-size: 18px;
+    
+}
+
+
+#headeralanı2{
+  
+    background: url('../img/artvn.jpg') no-repeat center center fixed !important;
+    background-size: cover;
+    height:900px;
+}
+
+.overlay{
+
+    background-color: rgba(0, 0, 0, .7 )  !important
+}
+
+.mainContent {
+    height:100vh; !important
+}
+
+.row{
+
+    font-size: 15px; !important
+}
+
+.lead{
+
+    font-size: 13px; !important
+}
+
+
+#ekıp .card{
+
+border: none;
+opacity: 0.5;
+cursor: pointer;
+transition: all 0.5s ease;    
+
+}
+#ekıp .card:hover{
+
+    opacity:1;
+}
+
+
+
+
