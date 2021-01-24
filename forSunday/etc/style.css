@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 16px;
+}
+body{
+    text-align: center;
+    background-image: url("../img/mainbg.png");
+    background-position: center;
+    width: 100%;
+    height: 1000px;
+    z-index: -1;
+    display: flex;
+    color:white;
+}
+
+header {
+    height: 35rem;
+
+}
+
+header .bg-img{
+    background-image: url("../img/sanze.png");
+    background-size: cover;
+    background-position: center;
+    height: 45rem;
+    opacity: 0.9;
+    z-index: 0;
+    margin-left: 28%;
+    position: absolute;
+}
+
+.placer{
+    z-index: 2;
+    margin-top: 40%;
+    margin-left: 42%;
+}
+
+header h1{
+    color:white;
+    padding: 18rem;
+    padding-bottom: 0px;
+    width: 100%;
+    font-size: 36px;
+
+}
+header p{
+    display: none;
+}
